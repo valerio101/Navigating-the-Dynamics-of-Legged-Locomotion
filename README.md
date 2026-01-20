@@ -6,3 +6,5 @@ The core of my work was exploring the fundamental 'trade-off' in robotic control
 By replicating this comparative analysis, I was able to see firsthand how Model Predictive Control (MPC) behaves differently depending on which model you feed into it. It was fascinating to observe how a different mathematical abstraction can completely transform a robot's response: while a simplified model is incredibly fast and ideal for long-term planning, a full model provides pinpoint precision at the cost of being much more computationally heavy.
 
 This experience gave me a much more intuitive grasp of robotic control. I no longer see it as just a set of formulas, but as a strategic choice. I’ve learned how to evaluate which model is best suited for a specific task, balancing the need for speed with the necessity for accuracy. It’s been a pivotal project that has truly shaped my understanding of robot dynamics.
+
+Please refer to the PowerPoint file for a detailed summary of the models and a visualisation of the tests carried out.
